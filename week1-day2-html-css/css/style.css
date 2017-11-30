@@ -1,16 +1,30 @@
 div.container{
 
 }
-#main-bio{
+#main-bio{float: left;
+    width: 70%;
+}
+#contact-info{float: left;
 
 }
-#contact-info{
+#bio-image{width: 200px;
+    float: left;
 
-}
-#bio-image{width: 240px
-
-}
-h1{color:red;
+head{background-color: #333333; 
 }
 
+body {background-color:#efeee7;
+    color:  #333333;
+    font-family: Georgia;
+    margin: 0;
+    padding: 0;
+    
+}
+
+h1{color:#eee; 
+   font-size: 28 px;
+}
+
+h2{font-size: 24px;
+}
 
