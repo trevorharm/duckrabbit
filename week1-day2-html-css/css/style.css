@@ -1,8 +1,11 @@
 div.container{ margin: 0 auto;
+    width: 1024px;
+
 }
 
 #main-bio{float: left;
     width: 70%;
+    padding-left: 10;
 }
 
 #contact-info{float: left;
@@ -11,7 +14,8 @@ div.container{ margin: 0 auto;
 
 #bio-image{width: 200px;
     float: left;
-    margin: 
+    padding-right: 2100;
+
 }
 
 body{background-color: #efeee7
@@ -20,7 +24,10 @@ body{background-color: #efeee7
 h1{color:#eee; 
    font-size: 28 px;
    text-align: center;
-   background-color: #333333
+   background-color: #333333;
+   margin-top: 0;
+   padding-top: 50;
+
 }
 
 h2{font-size: 24px;
